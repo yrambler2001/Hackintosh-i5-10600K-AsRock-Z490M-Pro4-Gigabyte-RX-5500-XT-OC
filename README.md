@@ -39,6 +39,7 @@ If you prefer to use only OpenCore without rEFInd, please remove these lines:
 # Result
 
 ![Info](/images/info.png)
+![SSD](/images/ssd.png)
 
 Geekbench 5 https://browser.geekbench.com/v5/cpu/6944941
 
