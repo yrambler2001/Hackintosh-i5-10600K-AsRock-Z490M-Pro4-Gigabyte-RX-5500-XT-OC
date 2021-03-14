@@ -49,22 +49,20 @@ The file config.plist. Please change MLB, SystemSerialNumber, SystemUUID into yo
 ```
 <dict>
 		<key>AdviseWindows</key>
-		<false/>
-		<key>SystemMemoryStatus</key>
-		<string>Auto</string>
+		<true/>
 		<key>MLB</key>
 		<string>xxxxxxxxxxxxxxx</string>
-		<key>ProcessorType</key>
-		<integer>0</integer>
 		<key>ROM</key>
-		<data>ESIzAAAA</data>
+		<data>Z0SJO6Bu</data>
 		<key>SpoofVendor</key>
 		<true/>
 		<key>SystemProductName</key>
-		<string>MacPro7,1</string>
+		<string>iMac20,1</string>
 		<key>SystemSerialNumber</key>
 		<string>xxxxxxxxxxx</string>
 		<key>SystemUUID</key>
 		<string>xxxxxxxx-xxxxx-xxxxx-xxxx-xxxxxxxx</string>
+		<key>SystemMemoryStatus</key>
+		<string>Auto</string>
 </dict>
 ```
