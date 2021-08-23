@@ -4,7 +4,7 @@ Big Sur
 
 ```
 MB: AsRock Z490M Pro4 $158
-CPU: Intel Core i5-10600K $250
+CPU: Intel Core i5-10600K@4.8GHz All-Core $250
 VGA: Gigabyte RX 5500 XT OC 8GB $250
 RAM: 32GB HyperX DDR4 16GB+16GB 3600Mhz FURY Black $210
 SSD: Samsung 970 EVO 500GB (OSX) $85
