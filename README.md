@@ -10,10 +10,10 @@ RAM: 32GB HyperX DDR4 16GB+16GB 3600Mhz FURY Black $210
 SSD: Samsung 970 EVO 500GB (OSX) $85
 SSD: Samsung 970 EVO 1TB (Windows) $160
 SSD: Samsung 860 EVO 500GB
-Bluetooth: Asus USB-BT400 $15
+Bluetooth & Wi-Fi: Fenvi FV-T919 $50
 Case: Deepcool KENDOMEN RD $60
 PSU: Chieftec BDF-600S 600W $60
-Cooler: DeepCool GAMMAXX 300 $20
+Cooler: be quiet! Dark Rock 4 $90
 ```
 
 # Hackintosh + OpenCore (Supported version: 0.6.7)
